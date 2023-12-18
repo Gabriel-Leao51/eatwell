@@ -1,0 +1,26 @@
+[
+  {
+    "id": "r1",
+    "name": "Bonanza",
+    "address": "23rd st.",
+    "cuisine": "Italian",
+    "website": "https://bonanza.com",
+    "description": "Great service!"
+  },
+  {
+    "id": "r2",
+    "name": "Sahtten",
+    "address": "15th st",
+    "cuisine": "Arab",
+    "website": "https://sahtten.com",
+    "description": "Great variety on their menu!"
+  },
+  {
+    "name": "Pampas",
+    "address": "36th st",
+    "cuisine": "Brazillian",
+    "website": "https://pampas.com",
+    "description": "Amazing food!",
+    "id": "d9f36f60-6258-4167-97d8-dd11b79c5a65"
+  }
+]
